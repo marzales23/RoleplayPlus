@@ -3,10 +3,17 @@
   "promos": {
     "1.16.5-latest": "1.0.5",
     "1.16.5-recommended": "1.0.5",
-    "1.12.2-latest": "1.0.0",
-    "1.12.2-latest": "1.0.1",
-    "1.12.2-latest": "1.0.2",
     "1.12.2-latest": "1.0.3",
     "1.12.2-recommended": "1.0.4"
-  }
+  },
+  "1.16.5": {
+    "1.0.5": "New things and changes implemented"
+  },
+  "1.12.2": {
+    "1.0.0": "Initial release"
+    "1.0.1": "Priest set implemented"
+    "1.0.2": "Thief set and musical disc implemented"
+    "1.0.3": "Judge set, sunglasses and coin implemented"
+    "1.0.4": "Stylish colorful suits implemented"
+  },
 }
